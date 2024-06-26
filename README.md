@@ -1,4 +1,4 @@
-Subway Enjoyers (MindHive Assessment)
+
 Subway Enjoyers is a web application that visualizes subway outlets on a map and highlights intersections between their catchment areas.
 
 Features:
